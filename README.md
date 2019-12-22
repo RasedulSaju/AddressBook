@@ -8,4 +8,4 @@ Components used:
   * JTextField
   * JButton
   * JTable
-      Added sorting with table data
+      => Added sorting with table data
